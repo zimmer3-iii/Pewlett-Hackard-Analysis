@@ -25,7 +25,8 @@ Employees ready to retire:
 - [See retiring_titles here](https://github.com/zimmer3-iii/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 
 - There are 1,940 employees that are eligible to enroll in the mentorship program. 	
-- [See mentorship_eligibility here](https://github.com/zimmer3-iii/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv) 		
+- [See mentorship_eligibility here](https://github.com/zimmer3-iii/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)	
+
 
 - [SQL code used to query date can be viewed here](https://github.com/zimmer3-iii/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) 		
 
