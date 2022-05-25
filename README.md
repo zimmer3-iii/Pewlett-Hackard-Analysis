@@ -22,12 +22,12 @@ Employees ready to retire:
 	- 7,636 Staff
 	- 24,926 Senior Staff
 	- 3,603 Technique Leaders
-- [See retiring_titles here](https://https://github.com/zimmer3-iii/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv) 	
+- [See retiring_titles here](https://github.com/zimmer3-iii/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 
 - There are 1,940 employees that are eligible to enroll in the mentorship program. 	
-- [See mentorship_eligibility here](https://https://github.com/zimmer3-iii/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv) 		
+- [See mentorship_eligibility here](https://github.com/zimmer3-iii/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv) 		
 
-- [SQL code used to query date can be viewed here](https://https://github.com/zimmer3-iii/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) 		
+- [SQL code used to query date can be viewed here](https://github.com/zimmer3-iii/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql) 		
 
 
 ## Summary
